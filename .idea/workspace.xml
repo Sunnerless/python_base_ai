@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bad1c18-5e94-4913-98ec-8289a433a971" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/alice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flie_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hn_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pi_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remember_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Die.py" beforeDir="false" afterPath="$PROJECT_DIR$/Die.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/death_valley_highs_lows.py" beforeDir="false" afterPath="$PROJECT_DIR$/death_valley_highs_lows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eq_ex_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/eq_ex_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eq_world_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/eq_world_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomwalk.py" beforeDir="false" afterPath="$PROJECT_DIR$/randomwalk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitka_highs.py" beforeDir="false" afterPath="$PROJECT_DIR$/sitka_highs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sunnerless&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sunnerless/python_base_ai.git",
+    "accountId": "02934405-7fdc-4e37-a4ea-198f6a2ba650"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nrjnOTexSNg2XGlmLNvqFIDDRi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Die.executor": "Run",
+    "Python.alice.executor": "Run",
+    "Python.api_use.executor": "Run",
+    "Python.death_valley_highs_lows.executor": "Run",
+    "Python.demo_1.executor": "Run",
+    "Python.download_data.executor": "Run",
+    "Python.eq_ex_data.executor": "Run",
+    "Python.eq_world_map.executor": "Run",
+    "Python.flie_reader.executor": "Run",
+    "Python.hn_sub.executor": "Run",
+    "Python.randomwalk.executor": "Run",
+    "Python.remember_me.executor": "Run",
+    "Python.sitka_highs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\ai_base\matplotlib\pythonProject" />
+      <recent name="D:\桌面\ai_base\matplotlib\pythonProject\eq_data" />
+      <recent name="D:\桌面\ai_base\matplotlib\pythonProject\weather_data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1bad1c18-5e94-4913-98ec-8289a433a971" name="更改" comment="" />
+      <created>1729738255172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729738255172</updated>
+      <workItem from="1729738256125" duration="25820000" />
+      <workItem from="1729850787830" duration="142000" />
+      <workItem from="1729850977197" duration="1699000" />
+      <workItem from="1729866114318" duration="10334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$eq_ex_data.coverage" NAME="eq_ex_data 覆盖结果" MODIFIED="1729775894841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$sitka_highs.coverage" NAME="sitka_highs 覆盖结果" MODIFIED="1729755347863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$download_data.coverage" NAME="download_data 覆盖结果" MODIFIED="1729754825078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$randomwalk.coverage" NAME="randomwalk 覆盖结果" MODIFIED="1729745172608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$eq_world_map.coverage" NAME="eq_world_map 覆盖结果" MODIFIED="1729776685625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$demo_1.coverage" NAME="demo_1 覆盖结果" MODIFIED="1729742142825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$alice.coverage" NAME="alice 覆盖结果" MODIFIED="1729868868262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$flie_reader.coverage" NAME="flie_reader 覆盖结果" MODIFIED="1729867483956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$api_use.coverage" NAME="api_use 覆盖结果" MODIFIED="1729880194632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$death_valley_highs_lows.coverage" NAME="death_valley_highs_lows 覆盖结果" MODIFIED="1729755966726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$remember_me.coverage" NAME="remember_me 覆盖结果" MODIFIED="1729869557615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Die.coverage" NAME="Die 覆盖结果" MODIFIED="1729751073570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hn_sub.coverage" NAME="hn_sub 覆盖结果" MODIFIED="1729880721086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
